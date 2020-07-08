@@ -12,4 +12,6 @@ Control System Codes with Python
 - LTI System Response
    - First order System
    - Second Order System
+- Pole/zero map
+- Root Locus Analysis
 
