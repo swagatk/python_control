@@ -14,4 +14,6 @@ Control System Codes with Python
    - Second Order System
 - Pole/zero map
 - Root Locus Analysis
+- Frequency response Analysis
+   - Lead and Lag compensator design
 
